@@ -82,6 +82,9 @@ buttons.forEach(button => {
             screenValue += buttonText;
             screen.value = screenValue;
         }
+
+
+       
     });
 });
 
